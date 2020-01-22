@@ -51,7 +51,9 @@ test		['1',
 Hints
 •	Use what you’ve seen from the previous problem to extract the last element of the array.
 •	Create a step variable to hold the given step of the array. Then print all the elements with a for loop, incrementing the loop variable with the value of the step variable.
+
 3.	Add and Remove Elements from an Array
+
 Write a JS function that adds and removes numbers to / from an array. You will receive a command which can either be "add" or "remove". 
 The initial number is 1. Each input command should increase that number, regardless of what it is.
 
